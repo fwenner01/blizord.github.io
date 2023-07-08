@@ -8,3 +8,5 @@
 
 <img src="/images/tg1.png" width="50%" height="50%" alt="Game Screenshot" class="inline"/>
 
+[`jekyll-remote-theme`](https://github.com/benbalter/jekyll-remote-theme)
+
