@@ -1,5 +1,7 @@
 theme: jekyll-theme-slate
-title: Blizord's Homepage
+title: Frank Wenner
 plugins: 
   - jekyll-remote-theme
 remote_theme: vszhub/not-pure-poole
+
+cover_image: /images/background.jpg
