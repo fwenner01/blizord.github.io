@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
 title: Blizord's Homepage
+plugins: 
+  - jekyll-remote-theme
+remote_theme: vszhub/not-pure-poole
